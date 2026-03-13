@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006975602523",
+    "project_id": "smart-class-4a13c",
+    "storage_bucket": "smart-class-4a13c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006975602523:android:695512e8901bf6e888147e",
+        "android_client_info": {
+          "package_name": "com.example.smart_class"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGn2ksBeMIhOvZGC3Qa5S_fvwqUUy6FRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
